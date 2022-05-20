@@ -1,1 +1,1 @@
-# Creating some fun tools to solve some basic programing problems.
+# Creating some fun tools to solve some basic problems.
